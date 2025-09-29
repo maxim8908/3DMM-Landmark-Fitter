@@ -1,0 +1,6 @@
+numpy
+torch==2.4.1
+pytorch3d==0.7.6
+scikit-learn
+matplotlib
+igl
