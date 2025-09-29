@@ -5,17 +5,17 @@ This tool fits PCA-based 3D face models to target meshes using sparse 3D landmar
 
 ---
 
-## 🚀 Features
+## Features
 
-- 📐 Fit 3DMM shape coefficients from sparse 3D landmarks  
-- 🔧 Supports `.obj` meshes, `.npy` vertex data, and offset reconstruction  
-- ⚙️ Optional per-landmark weighting and L2 regularization  
-- 📊 Loss tracking and landmark error reporting  
-- 🧪 Easily scriptable for batch fitting
+- Fit 3DMM shape coefficients from sparse 3D landmarks  
+- Supports `.obj` meshes, `.npy` vertex data, and offset reconstruction  
+- Optional per-landmark weighting and L2 regularization  
+- Loss tracking and landmark error reporting  
+- Easily scriptable for batch fitting
 
 ---
 
-## 📦 Installation
+## Installation
 
 ```bash
 git clone https://github.com/YOUR_USERNAME/3DMM-Landmark-Fitter.git
